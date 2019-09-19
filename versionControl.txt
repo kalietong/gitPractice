@@ -1,0 +1,7 @@
+
+having easy access to the entire history of a file helps with efficiency because it allows you quick access to the files and directories you need. If you made a mistake by accessing or committing the wrong file, then you can go back to your history and fix everything.
+
+as a programmer, I would want to save a version of the files whenever a large enough change is made or whenever there's a long pause in editing. If I were to commit a file from my branch into the master's repository, then I would make sure that every version before a new push was sent was saved.In case you made an error or wanted to go back to a former version of the file then finding it in my file history would be helpful.
+
+committing messages are important because their the revisions of your files that allow you to keep record of what changes were made when and by who. The extra -m flag also allows updates the master and other branches updates information
+ 
